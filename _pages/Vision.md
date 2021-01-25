@@ -1,6 +1,16 @@
-Our Vision
-Did you know you can own ideas, like how you might own a house? As a patent holder, you are recognized for your technical achievements and can generate passive income through licensing. We are building language-generation software that make drafting and filing patents as easy as registering a domain name. With our software, anyone can become an inventor by describing their idea in a few paragraphs. After filing for a patent, inventors can use our platform to monetize their patent portfolio by licensing and trading their assets in an online marketplace. Our overall roadmap by analogy is as follows:
+---
+layout: page
+title: Vision and Mission 
+include_in_header: false
+---
 
-Autodesk | Drafting tool for professionals
-TurboTax | Legal automation for everyone
-Amazon | All-in-one platform and marketplace
+**Last updated**  
+Jan 25 2020
+
+# Mission
+Patent.AI mission is to give people the power to generate patent application and bridge gaps in between innovation and legal procedure. People use Patent.AI to file patent easilty with minimal cost, to discover what's new invention in the world, and to share granted patent and related product with people across globe.
+<br>
+
+
+# Our Vision
+People use Patent.AI to file their invention accurately, efficiently, and precisely to securely hold competitive advantages to maximize economic values.  
